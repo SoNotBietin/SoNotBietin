@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on tech
 - 📫 How to reach me is through tech
 
+I build most of my apps through Tkinter. Some of my games through Unity.
